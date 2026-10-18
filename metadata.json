@@ -1,0 +1,6 @@
+{
+  "name": "Photo Booth",
+  "description": "Production-ready Android Photo Booth application with libgphoto2 DSLR/Mirrorless camera support (Canon, Nikon, Sony), Camera2/CameraX, USB OTG external webcams, Kiosk Mode, Live Preview, Photo Editor, and Print/Sharing Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
